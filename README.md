@@ -60,16 +60,6 @@ Ce projet propose une **analyse complète** et des **modèles de prévision** du
 - Visualisation des **prédictions vs valeurs réelles**
 - Évaluation avec les mêmes métriques (MAE, MSE, RMSE, R²)
 
----
-
-## 📦 Dépendances principales
-
-- `numpy`, `pandas`, `matplotlib`
-- `scikit-learn`
-- `statsmodels`
-- `tensorflow`, `keras`
-
----
 
 ## 🧪 Utilisation
 
