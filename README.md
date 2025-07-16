@@ -61,9 +61,3 @@ Ce projet propose une **analyse complète** et des **modèles de prévision** du
 - Évaluation avec les mêmes métriques (MAE, MSE, RMSE, R²)
 
 
-## 🧪 Utilisation
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/<votre-nom-utilisateur>/<nom-du-depot>.git
-   cd <nom-du-depot>
